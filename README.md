@@ -2,18 +2,15 @@
 Code repository for Natural Language Processing Python and NLTK
 
 ##What You Will Learn:
-* Install and setup Python
-* Implement objects in Python by creating classes and defining methods
-* Uncover the simplicity of unit testing and why it's so important in Python
-* Get acquainted with NumPy to use it with arrays and array-oriented computing in data analysis
-* Create effective visualizations for presenting your data using Matplotlib
-* Process and analyze data using the time series capabilities of pandas
-* Interact with different kind of database systems, such as file, disk format, Mongo, and Redis
-* Apply data mining concepts to real-world problems
-* Find and extract good features from difficult datasets
-* Design and develop data mining applications using a variety of datasets
-* Compute on big data, including real-time data from the Internet
-* Explore how to use different machine learning models to ask different questions of your data
+* Get a glimpse of the complexity of natural languages and how they are processed by machines
+* Clean and wrangle text using tokenization and chunking to help you better process data
+* Tokenize text into sentences, and sentences into words
+* Classify text and perform sentiment analysis
+* Implement string matching algorithms and normalization techniques
+* Understand and implement the concepts of information retrieval and text summarization
+* Find out how to implement various NLP tasks in Python
+
+
 
 ### Software and Hardware (Module 3):
 | Chapter number | Software required (with version) | Hardware Specifications | OS required |
