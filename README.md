@@ -12,7 +12,7 @@ Code repository for Natural Language Processing Python and NLTK
 
 
 
-### Software and Hardware (Module 3):
+### Software and Hardware:
 | Chapter number | Software required (with version) | Hardware Specifications | OS required |
 | -------------- | -------------------------------- | ----------------------- | ----------- |
 | All chapters   | Python 2.7 or 3.2+               | Install NLTK 3.0 either on 32-bit or 64-bit machine | Windows or Mac/Unix |
