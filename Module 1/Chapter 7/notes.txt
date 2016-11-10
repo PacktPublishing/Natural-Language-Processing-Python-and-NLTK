@@ -1,0 +1,3 @@
+Please download some of the examples from here and work on it
+
+https://github.com/geekan/scrapy-examples
