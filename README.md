@@ -26,11 +26,9 @@ Code repository for Natural Language Processing Python and NLTK
 | -------------- | -------------- |-------------- |-------------- |-------------- |
 | 1 | NLTK>=3.0a4, NLTK Data |	Free |	http://www.nltk.org, http://www.nltk.org/data.html |
 | 2 | pyenchant>=1.6.5 |	Free | http://pythonhosted.org/pyenchant/ |
-
 | 3 | lockfile>=0.9.1, MongoDB >= 2.6, pymongo>=2.6.3 | Free | https://pypi.python.org/pypi/lockfile, http://www.mongodb.org/, https://pypi.python.org/pypi/pymongo/ |
-
 | 4 | NLTK-Trainer >= 0.9 |	Free | https://github.com/japerk/nltk-trainer |
-| 7 | scikit-learn>=0.14.1 |	Free |			http://scikit-learn.org/stable/ |
+| 7 | scikit-learn>=0.14.1 |	Free |http://scikit-learn.org/stable/ |
 | 8 | Redis >= 2.8, redis>=2.8.0 , execnet>=1.1 |	Free |	http://redis.io/, https://pypi.python.org/pypi/redis/, https://codespeak.net/execnet/ |
 | 9 | python-dateutil>=2.0, beautifulsoup4>=4.3.2, lxml>=3.2.3, charade>=1.0.3 | Free | http://labix.org/python-dateutil, http://www.crummy.com/software/BeautifulSoup/, http://lxml.de/, https://pypi.python.org/pypi/charade |
 
