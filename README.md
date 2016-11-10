@@ -10,9 +10,24 @@ Code repository for Natural Language Processing Python and NLTK
 * Understand and implement the concepts of information retrieval and text summarization
 * Find out how to implement various NLP tasks in Python
 
+### Software and Hardware (Module 1):
+| Chapter number | Software required (with version) | Download links to the software | Hardware specifications | OS required |
+| -------------- | -------------- |-------------- |-------------- |-------------- |
+| 1-5            | Python/Anaconda NLTK | https://www.python.org/, http://continuum.io/downloads, http://www.nltk.org/ | Common Unix Printing System | any |
+| 6 | scikit-learn and gensim | http://scikit-learn.org/stable/, https://radimrehurek.com/gensim/ |	Common Unix Printing System | any |
+| 7 | Scrappy | http://scrapy.org/ |	Common Unix Printing System	| any |
+| 8 | NumPy, SciPy, pandas, and matplotlib | http://www.numpy.org/, http://www.scipy.org/, http://pandas.pydata.org/, http://matplotlib.org/ |	Common Unix Printing System	| any |
+| 9 | Twitter Python APIs and Facebook python APIs	| https://dev.twitter.com/overview/api/twitter-libraries, https://developers.facebook.com |	Common Unix Printing System	| any |
 
 
-### Software and Hardware:
+
+
+
+
+
+### Software and Hardware (Module 2):
+
+### Software and Hardware (Module 3):
 | Chapter number | Software required (with version) | Hardware Specifications | OS required |
 | -------------- | -------------------------------- | ----------------------- | ----------- |
 | All chapters   | Python 2.7 or 3.2+               | Install NLTK 3.0 either on 32-bit or 64-bit machine | Windows or Mac/Unix |
