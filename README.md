@@ -21,11 +21,19 @@ Code repository for Natural Language Processing Python and NLTK
 
 
 
-
-
-
-
 ### Software and Hardware (Module 2):
+| Chapter number | Software required (with version) | Free/Proprietary | Download links to the software |
+| -------------- | -------------- |-------------- |-------------- |-------------- |
+| 1 | NLTK>=3.0a4 |	Free |	http://www.nltk.org |
+| 2 | 
+| 3 |
+| 4 |
+| 7 |
+| 8 |
+| 9 |
+
+
+
 
 ### Software and Hardware (Module 3):
 | Chapter number | Software required (with version) | Hardware Specifications | OS required |
