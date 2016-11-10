@@ -16,6 +16,12 @@ Code repository for Natural Language Processing Python and NLTK
 * Explore how to use different machine learning models to ask different questions of your data
 
 ### Software and Hardware (Module 1):
+| Chapter number | Software required (with version) | Hardware Specifications | OS required |
+| -------------- | -------------------------------- | ----------------------- | ----------- |
+| All chapters   | Python 2.7 or 3.2+               | Install NLTK 3.0 either on 32-bit or 64-bit machine | Windows or Mac/Unix |
+
+
+
 
 
 ###Note
