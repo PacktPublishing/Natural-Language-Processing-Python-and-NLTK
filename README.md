@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Course for only $5 on PacktPub.com](https://www.packtpub.com/product/natural-language-processing-python-and-nltk/9781787285101)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Natural Language Processing Python and NLTK
 Code repository for Natural Language Processing Python and NLTK
 
